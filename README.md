@@ -22,7 +22,7 @@ increase the number neurons in each layer, adding more layers to the netwok.
 And using call backs parameter to record the history of various metric during the training .
 
 # Part 3
-This part givs an implementation of the model by adding droup layer  
+This part gives an implementation of the model by adding droup layer  
 to reduce overfitting in the model. Also we incooperated sklearn models by using   
 Piplines the workflow.
 
