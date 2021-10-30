@@ -1,6 +1,6 @@
 # EPT Senegal Seminar Presentation On Deep Learning.
 
-In These Repository, we keep tract of files used and generated during a seminar presentation on   
+In this Repository, we kept tract of files used and generated during a seminar presentation on   
 Deep learning to final year students of the Ecole Polytechnique de Thiès (EPT), Senegal
 
 # Part 1
