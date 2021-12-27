@@ -17,9 +17,9 @@ The implementation was partition into for four(4) part.
 # Part 2
 This part gives a general overview of Deep learning implementation, its uses data from  
 www.kaggle.com/c/rossmann-store-sales/data to build the model which was a regression problem.
-Also the we used different techiques to improve performance of the model. Such as   
-increase the number neurons in each layer, adding more layers to the netwok.  
-And using call backs parameter to record the history of various metric during the training .
+Also the we used different techiques to improve performance of the model. Such as increase the number   
+neurons in each layer, adding more layers to the netwok. And using call backs parameter to record the history  
+of various metric during the training .
 
 # Part 3
 This part gives an implementation of the model by adding droup layer  
